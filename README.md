@@ -71,5 +71,5 @@ Just a few levels everyday will keep your mind sharp
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [linkedin-url]: https://www.linkedin.com/in/manjaka-andriamasinoro/
-[product-screenshot]: images/screenshot.PNG
+[product-screenshot]: images/screenshot.png
 [demo]: images/demo.gif
